@@ -1,2 +1,1 @@
-# PrepCourse-FullStack
-Este es un repositorio de prueba del modulo 2 del preprcourse de fullstack de Henry
+Este es un proyecto de prueba de repositorios en GitHub
